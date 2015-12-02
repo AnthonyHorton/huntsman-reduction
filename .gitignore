@@ -5,6 +5,12 @@ reduced
 # Ignore emacs backup files
 *~
 
+# Jupyter/IPython cruft
+.ipynb_checkpoints
+
+# OS X Finder clutter
+.DS_Store
+
 # Everything below here is the GitHub template for Python projects
 
 # Byte-compiled / optimized / DLL files
