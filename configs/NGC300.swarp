@@ -33,7 +33,7 @@ CLIP_WRITELOG          N               # Write output file with coordinates of
                                        # clipped pixels (Y/N) 
 CLIP_LOGNAME           clipped.log     # Name of output file with coordinates
                                        # of clipped pixels
-BLANK_BADPIXELS        N               # Set to 0 pixels having a weight of 0
+BLANK_BADPIXELS        Y               # Set to 0 pixels having a weight of 0
  
 #-------------------------------- Astrometry ----------------------------------
  
